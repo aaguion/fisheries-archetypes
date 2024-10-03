@@ -1,6 +1,6 @@
 ###### This repository contains R code and data for the LCCA model and figures created to characterize marine small-scale fisheries in Aguion et al. paper
 
-###### The following R packages were used to analyse data and create figures
+The following R packages were used to analyse data and create figures
 ```r
 install.packages(c("dplyr", "ggplot2", "gplots", "forcats", "scales", "svglite", "fmsb", "glca", "cluster", "stats", "dendextend", "reshape2"))
 ```
