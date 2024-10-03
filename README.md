@@ -22,3 +22,5 @@ install.packages(c("dplyr", "ggplot2", "gplots", "forcats", "scales", "svglite",
 ###### *LCCA_archetypes*: Multilevel Latent Class Model (LCCA) to identify fisheries archetypes at global, regional and national levels. Produce Fig. 3
 
 ###### *Fig_national_archetypes*: Produce Fig. 4
+
+This is a product of the Illuminating Hidden Harvests Research Initiative.
