@@ -1,5 +1,9 @@
 This repository contains R code and data for the LCCA model and figures created to characterize marine small-scale fisheries in Aguion et al. paper
 
+The following R packages were used to analyse data and create figures
+
+install.packages(c("dplyr", "ggplot2", "gplots", "forcats", "scales", "svglite", "fmsb", "glca", "cluster", "stats", "dendextend", "reshape2"))
+
 # **Data**
 *Fig_ssf_definition.csv*: Percentage of marine ssf catch accounted for depending on the criteria used to define "small-scale" (Box Fig. 1)
 
