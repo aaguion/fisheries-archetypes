@@ -23,4 +23,5 @@ install.packages(c("dplyr", "ggplot2", "gplots", "forcats", "scales", "svglite",
 
 ###### *Fig_national_archetypes*: Produce Fig. 4
 
+
 This is a product of the Illuminating Hidden Harvests Research Initiative.
