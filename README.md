@@ -1,4 +1,4 @@
-This repository contains R code and data for the LCCA model and figures to characterize marine small-scale fisheries in Aguion et al. paper (In review)
+This repository contains R code and data for the LCCA model and figures to characterize marine small-scale fisheries in Aguion et al. paper (Nature Food) 2025
 
 The following R packages were used to analyse data and create figures
 ```r
